@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912974214904",
+    "firebase_url": "https://anyblog-98b7d.firebaseio.com",
+    "project_id": "anyblog-98b7d",
+    "storage_bucket": "anyblog-98b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912974214904:android:603d93b6145942f0f92d0d",
+        "android_client_info": {
+          "package_name": "com.example.anyblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912974214904-q4p0qf5jvpk1ke3qqd55u2keho3io086.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fkFqIcXdoRfOAMrZZGsLz9HwbdXyTPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912974214904-q4p0qf5jvpk1ke3qqd55u2keho3io086.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
